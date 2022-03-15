@@ -16,6 +16,11 @@ const faces = [
   '(￣▽￣)',
   '<(￣︶￣)>',
   '(＾◡＾)',
+  'ヽ(*⌒▽⌒*)ﾉ',
+  '(๑˘︶˘๑)',
+  '(◕‿◕)',
+  '(„• ᴗ •„)',
+  '(*°▽°*)'
 ]
 
 const randomFace = faces[Math.floor(Math.random() * faces.length)]
