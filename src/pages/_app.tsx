@@ -25,6 +25,8 @@ const PersonalPortfolio = ({ Component, pageProps }: AppProps) => {
       <meta property="twitter:title" content="Eli_Pnqe" />
       <meta property="twitter:description" content="Front-end developer from The Philippines. I'm currenty in High School. I hope that I'll be able to learn full-stack in the near future." />
       <meta property="twitter:image" content="/banner.jpg" />
+
+      <link rel="icon" href="/av.jpg" />
       </Head>
 
       <Component {...pageProps} />
